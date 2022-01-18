@@ -7,7 +7,8 @@
 ## Technical Knowledge
 
 - [All engineering goals](./Engineer.md)
-
+- Dev Env
+  - Linting
 - HTML
   - Accessibility Basics
   - Semantic HTML
@@ -44,6 +45,7 @@
   - Docker
   - Read/Debug Level Ruby
 - Testing
+  - What exactly to test for?
   - unit
     - RTL
     - Chai
