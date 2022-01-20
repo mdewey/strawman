@@ -30,3 +30,7 @@
 - How to validate a ticket
 - How to close a ticket
 - When and how does stuff get deployed
+- Collab Cycle and how to leverage it
+  - when do touch points happen
+  - what are those topuch points
+  - how/who to do the touch points

@@ -46,6 +46,7 @@
   - Read/Debug Level Ruby
 - Testing
   - What exactly to test for?
+  - Utilize the QA team
   - unit
     - RTL
     - Chai
@@ -60,3 +61,7 @@
 
 - [In addition to the workflow knowledge](./Engineer.md)
 - How to work with your designer
+- How to review a PR
+  - who approves
+  - what to look for
+  - how/when to approve
