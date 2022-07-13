@@ -10,6 +10,8 @@
 
 ## Responsiblities
 
+- Not authoritative
+
 ### First 30
 
 - 3 meetings a week (MWF)
@@ -26,6 +28,6 @@
 - focuses on getting the candidate onboarded, not upskilled
 - Not tech support, but can help with tech problems
 - Shield for really obvious questions
-  - quetsions that would make the client ask "What the fuck are they doing at GCIO"
+  - questions that would make the client ask "What the fuck are they doing on the VSA contract?"
 - Guides through the process
-- Pair programming is required 
+- Pair programming is required

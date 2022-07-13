@@ -1,4 +1,4 @@
-# A 90 day FE developer should
+# A 90 Day Engineer should
 
 ## Cultural Knowledge
 
@@ -7,6 +7,10 @@
   - Video call etiquette
   - GCIO vs Adhoc vs Other Contractors (A6) vs VA vs Veterans
 - How/ Where to ask questions
+  - onboarding buddy
+  - gcio only channel
+  - adhoc/gcio channel
+  - DSVA slack group
 - Daily Schedule
 - How gov't contracting works
 - Know the vision of their team/project
